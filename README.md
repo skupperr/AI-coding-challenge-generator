@@ -2,7 +2,7 @@
 
 # 🧠 AI Coding Challenge Generator
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 [![Python 3.11+](https://img.shields.io/badge/Python--3.11+-backend-blue?logo=python)](https://www.python.org/downloads/)
 [![Vite + React](https://img.shields.io/badge/Vite_+_React-frontend-purple?logo=react)](https://vitejs.dev/)
 
@@ -10,7 +10,7 @@
 
 **AI Coding Challenge Generator** is a full-stack application that helps users improve their coding skills through daily AI-generated multiple-choice challenges, tailored by difficulty.
 
-![Demo Screenshot](./Frontend/public/preview.png)
+![Demo Screenshot](./frontend/public/preview.png)
 
 </div>
 
