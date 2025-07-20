@@ -1,0 +1,12 @@
+Frontend:
+npm create vite@latest frontend -- --template react
+cd frontend
+npm install react-router-dom@6 @clerk/clerk-react
+
+Run frontend: npm run dev
+
+Backend:
+pip install -r requirements.txt
+cd backend
+
+Run backend: python server.py

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+clerk-sdk-python
+fastapi[standard]
+clerk_backend_api 
+svix
